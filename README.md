@@ -1,4 +1,4 @@
-# Gesture Recognition for Blind Assistance 👋🔊
+# Gesture Recognition for Deaf Assistance 👋🔊
 
 ## Overview 🌐
 This project implements a real-time gesture recognition system designed to assist visually impaired individuals by converting hand gestures into audible speech. The system uses computer vision and machine learning to detect hand gestures with two operational modes:
